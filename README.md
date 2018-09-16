@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+
+# vue-nueadmin
+
+NueAdmin is Vue Admin Template base on Twitter Bootstrap
+
 # nueadmin
 
 ## Project setup
@@ -20,7 +24,3 @@ npm run build
 ```
 npm run lint
 ```
-=======
-# vue-nueadmin
-Vue Admin Template with Bootstrap
->>>>>>> 7f72c550e3089402f6cfdbd49d74de43c34f29d6
